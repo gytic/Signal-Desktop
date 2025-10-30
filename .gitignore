@@ -50,3 +50,6 @@ ts/protobuf/*.d.ts
 /.zed
 *.sublime*
 *.map
+
+# nix
+.direnv
